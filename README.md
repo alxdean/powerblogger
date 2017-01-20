@@ -1,2 +1,2 @@
 # powerblogger
-Source Scripts for examples posted on powerblogger.tips
+Source Scripts for examples posted on http://powerblogger.tips
